@@ -107,8 +107,7 @@ Este projeto foi criado com paixão por:
 
 ## 💬 **Contato**
 Quer trocar uma ideia ou tem alguma dúvida? Me chama aqui:
-📧 Email: seuemail@exemplo.com  
-🐦 Twitter: [@Djhessica](https://twitter.com/Djhessica)  
+📧 Email: djhessicabratil@outlook.com  
 🔗 LinkedIn: [Djhessica Brati de Lima](https://linkedin.com/in/djhessica-brati-de-lima)  
 
 ---
@@ -116,20 +115,6 @@ Quer trocar uma ideia ou tem alguma dúvida? Me chama aqui:
 ✨ _Obrigado por ler até aqui! Agora vá lá e divirta-se explorando o projeto!_ 🚀
 ```
 
-Agora o README está 100% personalizado para você, com suas informações de aprendizado e perfis! Se quiser adicionar mais detalhes ou deixar ainda mais estilizado, é só me avisar 😃🚀
-
-
-
-
-
-
-
-
-
-
-cd seu-projeto
-npm install
-npm start
 <!--
 **djhessica/djhessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
